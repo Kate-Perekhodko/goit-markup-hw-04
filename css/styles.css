@@ -92,11 +92,11 @@ p {
 }
 .container-title.hero-page {
   background-image: linear-gradient(rgba(46, 47, 66, 0.7)),
-    url(../images/people-office\ 1.jpg);
+    url(../images/people-office1.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  max-width: 1440 px;
+  max-width: 1440px;
 }
 
 /* Стилі для кнопок */
