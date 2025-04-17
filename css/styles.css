@@ -310,7 +310,7 @@ p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:#FFFFFF;
+  color:var(#FFFFFF);
   margin-bottom: 16px;
 }
 
@@ -338,10 +338,6 @@ background-color: #31d0aa;
 }
 .social-list-icon {
   fill: #f4f4fd;
-}
-.social-paragraf {
-  color:#FFFFFF;
-  margin-bottom: 16px;
 }
 
 /* Загальні стилі для заголовків */
