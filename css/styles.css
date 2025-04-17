@@ -339,6 +339,10 @@ background-color: #31d0aa;
 .social-list-icon {
   fill: #f4f4fd;
 }
+.social-paragraf {
+  color:#FFFFFF;
+  margin-bottom: 16px;
+}
 
 /* Загальні стилі для заголовків */
 .title {
